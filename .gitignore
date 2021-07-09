@@ -3,3 +3,4 @@ lib/
 lib64/
 share/
 *.cfg
+env-*/
