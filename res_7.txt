@@ -1,0 +1,190 @@
+PRECO MAXIMO DE CADA JOGADOR:  9.090833333333334
+PRECO MAXIMO TIME:  109.09
+GOLEIROS
+     preco_num    SC           apelido  clube_id            clube
+745       6.82  20.0           Jailson       275        Palmeiras
+46        4.85  19.0           Maílson       292            Sport
+306       6.80  16.0      Felipe Alves       356  >>>>> Fortaleza
+283       6.63  15.0            Walter      1371           Cuiabá
+740       4.53  14.0     Marcelo Carné       286        Juventude
+263       7.96  14.0           Cleiton       280       Bragantino
+566       2.47   8.0        João Paulo       315      Chapecoense
+67        4.08   8.0  Matheus Teixeira       265            Bahia
+10        3.48  -3.0        João Paulo       277           Santos
+527       0.75  -5.0  Vinicius Machado       354            Ceará
+ZAGUEIROS
+     preco_num    SC             apelido  clube_id                clube
+107       8.46  25.3                Titi       356      >>>>> Fortaleza
+374       6.07  17.6           Zé Ivaldo       293   >>>>> Athlético-PR
+451       8.47  16.4               Conti       265                Bahia
+266       7.70  16.1           Léo Ortiz       280           Bragantino
+665       5.83  15.5  Marcelo Benevenuto       356      >>>>> Fortaleza
+393       6.51  15.4        Nathan Silva       373          Atlético-GO
+4         5.80  14.9         Luiz Felipe       277               Santos
+325       6.39  14.2         Luan Peres        277               Santos
+425       7.03  14.1             Gabriel       282          Atlético-MG
+0         3.67  14.1        Vitor Mendes       286            Juventude
+239       8.35  14.0      Pedro Henrique       293   >>>>> Athlético-PR
+73        6.46  13.8         João Victor       264          Corinthians
+459       7.91  12.3         Bruno Alves       276            São Paulo
+537       4.77  11.3      Felipe Santana       315          Chapecoense
+714       3.40  10.7      Rafael Forster       286            Juventude
+169       3.36  10.2             Ignácio       315          Chapecoense
+34        3.13   9.4       Rafael Thyere       292                Sport
+282       5.82   8.5                 Gil       264          Corinthians
+52        4.34   8.3              Sabino       292                Sport
+741       4.14   7.6             Marllon      1371               Cuiabá
+320       7.32   6.7       Víctor Cuesta       285  >>>>> Internacional
+287       6.06   6.4              Paulão      1371               Cuiabá
+344       1.93   5.6   Eduardo Bauermann       327           América-MG
+314       7.15   4.4       Pedro Geromel       284               Grêmio
+549       1.72   4.2              Derlan       315          Chapecoense
+80        2.52   3.8               Renan       275            Palmeiras
+38        4.39  -0.3        Iago Maidana       292                Sport
+311       6.92  -0.4           Kannemann       284               Grêmio
+538       1.39  -1.1     Gabriel Lacerda       354                Ceará
+468       2.63  -1.4               Diego       276            São Paulo
+655       0.75  -2.3       Lucas Ribeiro       285  >>>>> Internacional
+510       0.75  -4.3             Messias       354                Ceará
+LATERAIS
+     preco_num    SC           apelido  clube_id                clube
+36        5.27  21.4            Sander       292                Sport
+303       6.57  19.1             Tinga       356      >>>>> Fortaleza
+577       7.38  18.7       Matheuzinho       262       >>>>> Flamengo
+99        4.60  17.3            Hayner       292                Sport
+556       4.49  16.2   Matheus Ribeiro       315          Chapecoense
+587       8.80  16.1   Guilherme Arana       282          Atlético-MG
+511       6.10  14.3      Gabriel Dias       354                Ceará
+642       5.59  13.9       Victor Luis       275            Palmeiras
+66        8.21  12.8               Léo       276            São Paulo
+100       3.77  12.7        João Lucas      1371               Cuiabá
+121       6.02  11.1       Filipe Luís       262       >>>>> Flamengo
+86        2.95  11.1            Michel       286            Juventude
+238       5.73   9.9        João Paulo       327           América-MG
+1         3.99   9.0              Pará       277               Santos
+512       5.03   8.6     Bruno Pacheco       354                Ceará
+625       7.57   5.8      Marcos Rocha       275            Palmeiras
+472       2.97   5.8        Welington        276            São Paulo
+684       4.27   3.1      Bruno Cortez       284               Grêmio
+733       6.19   3.1           Saravia       285  >>>>> Internacional
+214       3.42   2.4   William Matheus       286            Juventude
+444       3.73   0.6  Juninho Capixaba       265                Bahia
+639       1.31   0.2        Léo Borges       285  >>>>> Internacional
+615       6.00   0.0   Danilo Barcelos       266           Fluminense
+175       2.00   0.0   Lucas Hernández      1371               Cuiabá
+264       9.00   0.0      Nino Paraíba       265                Bahia
+MEIAS
+     preco_num    SC           apelido  clube_id                clube
+675       8.83  24.4           Éderson       356      >>>>> Fortaleza
+30        7.65  24.2    Gabriel Pirani       277               Santos
+426       8.00  22.7              Jair       282          Atlético-MG
+589       7.74  22.5           Gabriel       264          Corinthians
+389       8.91  20.3        João Paulo       373          Atlético-GO
+261       6.79  20.3              Raul       280           Bragantino
+78        7.89  19.5  Gabriel Teixeira       266           Fluminense
+551       6.92  19.2         Ravanelli       315          Chapecoense
+591       5.37  18.7          Cantillo       264          Corinthians
+430       7.66  18.0            Hyoran       282          Atlético-MG
+97        8.26  17.2              Pepê      1371               Cuiabá
+345       4.73  17.2               Alê       327           América-MG
+656       7.06  16.4    Matheus Vargas       356      >>>>> Fortaleza
+297       6.79  16.1             Diego       262       >>>>> Flamengo
+732       7.61  15.4           Wescley       286            Juventude
+347       5.63  15.0           Juninho       327           América-MG
+617       6.30  15.0       Yago Felipe       266           Fluminense
+315       7.40  14.9           Patrick       285  >>>>> Internacional
+641       6.83  14.2     Lucas Crispim       356      >>>>> Fortaleza
+429       7.37  13.4         Tchê Tchê       282          Atlético-MG
+431       4.82  12.8             Allan       282          Atlético-MG
+317       5.42  12.2             Chico       286            Juventude
+552       3.60  12.0              Lima       315          Chapecoense
+601       3.95  11.5              Roni       264          Corinthians
+419       6.08  11.1       Felipe Melo       275            Palmeiras
+446       6.45  11.0            Daniel       265                Bahia
+662       4.90  10.2            Felipe       356      >>>>> Fortaleza
+469       4.51   8.8      Gabriel Sara       276            São Paulo
+275       5.42   8.1      Mateus Vital       264          Corinthians
+296       3.72   8.0              Nenê       266           Fluminense
+689       7.62   7.4  Matheus Henrique       284               Grêmio
+254       4.18   6.8       Rodriguinho       265                Bahia
+31        3.73   6.7      Marcão Silva       292                Sport
+370       2.30   6.6           Richard       293   >>>>> Athlético-PR
+550       2.74   6.3    Anderson Leite       315          Chapecoense
+45        4.17   5.9      Thiago Lopes       292                Sport
+453       2.04   5.7  Patrick de Lucca       265                Bahia
+623       4.27   5.2        Martinelli       266           Fluminense
+664       2.63   4.4            Johnny       285  >>>>> Internacional
+397       3.17   3.6  Willian Maranhão       373          Atlético-GO
+747       2.10   3.6             Elton       286            Juventude
+250       3.52   3.2    Marlon Freitas       373          Atlético-GO
+657       5.61   2.0   Rodrigo Dourado       285  >>>>> Internacional
+722       2.76   1.8           Auremir      1371               Cuiabá
+557       1.45   1.0            Guedes       315          Chapecoense
+334       6.54   0.1           Benítez       276            São Paulo
+359       1.20  -0.5             Ramon       327           América-MG
+735       2.58  -0.8     Matheus Jesus       286            Juventude
+526       2.40  -1.0            Marlon       354                Ceará
+683       0.76  -2.1     Thiago Santos       284               Grêmio
+ATACANTES
+     preco_num    SC              apelido  clube_id                clube
+19        8.85  24.6           Kaio Jorge       277               Santos
+295       7.28  18.4              Vitinho       262       >>>>> Flamengo
+237       6.20  17.3            Deyverson       275            Palmeiras
+598       7.67  16.9     Gustavo Mosquito       264          Corinthians
+307       7.08  16.8  Wellington Paulista       356      >>>>> Fortaleza
+553       3.15  14.7          Fernandinho       315          Chapecoense
+346       6.59  13.5         Rodolfo José       327           América-MG
+406       4.25  12.1            Janderson       373          Atlético-GO
+305       5.83  11.9              Clayson      1371               Cuiabá
+456       5.49  11.8                 Eder       276            São Paulo
+384       5.14  11.3              Vitinho       293   >>>>> Athlético-PR
+137       8.15  10.2                André       292                Sport
+633       4.67   8.6    Marcos Guilherme        277               Santos
+573       4.15   7.7              Michael       262       >>>>> Flamengo
+312       9.05   7.2             Ferreira       284               Grêmio
+339       5.22   6.0       Felipe Azevedo       327           América-MG
+301       6.39   5.9                David       356      >>>>> Fortaleza
+541       3.01   5.8    Paulinho Moccelin       292                Sport
+270       6.66   5.5              Mendoza       354                Ceará
+535       2.92   5.2        Anselmo Ramon       315          Chapecoense
+244       6.39   4.6        Renato Kayzer       293   >>>>> Athlético-PR
+302       7.06   3.2                 Fred       266           Fluminense
+473       1.57   2.4        Paulinho Bóia       286            Juventude
+629       2.10   2.3         Yuri Alberto       285  >>>>> Internacional
+461       4.16   2.2                Pablo       276            São Paulo
+35        5.05   2.1              Neilton       292                Sport
+634       5.89   2.0      Thiago Galhardo       285  >>>>> Internacional
+408       4.60   1.0                   Jô       264          Corinthians
+624       2.88   0.6                Kayky       266           Fluminense
+TECNICOS
+    scout  posicao_id  status_id  pontos_num  preco_num  media_num  \
+120    {}           6          7        2.01       8.50       4.05   
+300    {}           6          7        2.71       8.90       3.92   
+133    {}           6          7        7.37       7.15       3.56   
+257    {}           6          7        3.85       8.71       3.54   
+180    {}           6          7        0.00       4.31       3.10   
+207    {}           6          7        2.42       4.08       2.85   
+142    {}           6          7        3.25       6.34       2.79   
+318    {}           6          7        3.35       5.47       2.52   
+189    {}           6          7        1.32       7.80       2.51   
+337    {}           6          7        1.47       4.83       2.29   
+331    {}           6          7        0.51       8.74       2.17   
+313    {}           6          7        0.00       5.38       1.30   
+231    {}           6          7        0.00       6.25       0.00   
+274    {}           6          7        0.00       6.00       0.00   
+
+                 apelido  clube_id                clube  
+120         Juan Vojvoda       356      >>>>> Fortaleza  
+300       Roger Machado        266           Fluminense  
+133       Fernando Diniz       277               Santos  
+257      Dado Cavalcanti       265                Bahia  
+180  Luiz Fernando Iubel      1371               Cuiabá  
+207         Jair Ventura       315          Chapecoense  
+142             Sylvinho       264          Corinthians  
+318    Marquinhos Santos       286            Juventude  
+189        Guto Ferreira       354                Ceará  
+337       Umberto Louzer       292                Sport  
+331        Hernán Crespo       276            São Paulo  
+313          Tiago Nunes       284               Grêmio  
+231        Diego Aguirre       285  >>>>> Internacional  
+274       Vagner Mancini       327           América-MG  
